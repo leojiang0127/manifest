@@ -7,3 +7,4 @@
               remote="repo-server" />
      <project name="test_android" path="external/example1" />
     <project name="test_repo" path="external/example2" />
+   </manifest>
