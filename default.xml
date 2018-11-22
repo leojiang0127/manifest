@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <manifest>
+    <remote  name="repo-server"
+              fetch="ssh://github.com/leojiang0127" />
+
+     <default revision="master"
+              remote="repo-server" />
+     <project name="test_android" path="external/example1" />
+    <project name="test_repo" path="external/example2" />
