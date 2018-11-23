@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
   <manifest>
     <remote  name="repo-server"
-              fetch="https://github.com/leojiang0127" />
+              fetch="ssh://git@github.com:leojiang0127" />
 
      <default revision="master"
               remote="repo-server" />
